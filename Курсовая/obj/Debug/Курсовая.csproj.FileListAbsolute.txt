@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\User\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\User\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Class_shedule.resources
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Coach.resources
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.List_of_section.resources
+C:\Users\User\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Sportsman.resources
